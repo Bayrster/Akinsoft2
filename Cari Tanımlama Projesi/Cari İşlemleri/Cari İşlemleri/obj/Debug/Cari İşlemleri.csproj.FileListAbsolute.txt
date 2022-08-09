@@ -1,0 +1,22 @@
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.exe.config
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.exe
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.pdb
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.AssemblyReference.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.SuggestedBindingRedirects.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari_İşlemleri.Form1.resources
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari_İşlemleri.Properties.Resources.resources
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.GenerateResource.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.CoreCompileInputs.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.exe
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.pdb
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.exe.config
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.exe
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\bin\Debug\Cari İşlemleri.pdb
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.AssemblyReference.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.SuggestedBindingRedirects.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari_İşlemleri.Form1.resources
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari_İşlemleri.Properties.Resources.resources
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.GenerateResource.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.csproj.CoreCompileInputs.cache
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.exe
+F:\SYSTEM\Users\Bilgen\Desktop\Muhammed\Visual Studio Projeler\Cari Tanımlama Projesi\Cari İşlemleri\Cari İşlemleri\obj\Debug\Cari İşlemleri.pdb
